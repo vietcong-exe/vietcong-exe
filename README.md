@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   
-### 💻 Software Engineer | 🔐 Enthusiast Cracker | ⚡ Performance Optimizer
+### 💻 Software Developer | 🔐 Enthusiast Cracker | ⚡ Performance Optimizer
 
 [![GitHub followers](https://img.shields.io/github/followers/vietcong-exe?style=for-the-badge&logo=github&labelColor=1a1b27&color=70a5fd)](https://github.com/vietcong-exe)
 [![Profile Views](https://komarev.com/ghpvc/?username=vietcong-exe&style=for-the-badge&color=70a5fd&labelColor=1a1b27)](https://github.com/vietcong-exe)
